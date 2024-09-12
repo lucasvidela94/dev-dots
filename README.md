@@ -8,6 +8,7 @@ Este repositorio contiene mis configuraciones personales para diferentes herrami
 - **fish/**: Colocar en `~/.config/fish/`
 - **kitty/**: Colocar en `~/.config/kitty/`
 - **nvim/**: Colocar en `~/.config/nvim/`
+- **nvim-1/** Esta config de neovim funciona con go y tiene la misma estructura pero mas ordenada y separada
 - **tmux/**: Colocar en `~/.config/tmux/`
 - **zellij/**: Colocar en `~/.config/zellij/`
 
@@ -21,5 +22,5 @@ Este repositorio contiene mis configuraciones personales para diferentes herrami
 1. Clona este repositorio en tu directorio home:
 
    ```bash
-   git clone https://github.com/tu-usuario/ever-dots.git ~/ever-dots
+   git clone git@github.com:lucasvidela94/dev-dots.git
 
