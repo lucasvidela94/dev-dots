@@ -1,6 +1,5 @@
-# Mi Configuración de Neovim
+# Config de neovim
 
-Este repositorio contiene mi configuración personal de Neovim, con una selección cuidadosa de plugins y ajustes personalizados para una experiencia de codificación mejorada.
 
 ## Estructura de Directorios
 
